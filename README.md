@@ -28,3 +28,5 @@ Procesul de setup este unul simplu, în primul rănd se rulează în Oracle scri
 
 
 ### Demo
+
+https://www.youtube.com/watch?v=NkNcS5ejGiE
