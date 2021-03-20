@@ -20,5 +20,11 @@ Deoarece Oracle nu suportă tipul de date boolean am folosit pe post de înlocui
 number(1,0) împreună cu un check constraint, pentru a permite doar valori de 1 și 0.
 
 ### Setup
+Pentru utilizarea aplicației este necesar să fie instalată o versiune de java și baza de date de la Oracle.
+
+Procesul de setup este unul simplu, în primul rănd se rulează în Oracle scriptul *CreareBD.sql*. După care se copiază folderul *Executabil* în directorul dorit și se modifică credențialele si url-ul bazei de date din fișierul *connection* din folderul respectiv, după care aplicația ar trebui să funcționeze.
+
+În folderul *errors* vor apărea eventualele erori.
 
 
+### Demo
