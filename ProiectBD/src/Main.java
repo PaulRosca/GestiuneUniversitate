@@ -3368,6 +3368,7 @@ public class Main extends JFrame {
 				try {
 					actualizareDisciplinePosibileAdaugareStudent();
 					list.setModel(disciplinePosibileAdaugareDLM);
+					listProfesoriDisciplina.setModel(new DefaultListModel<>());
 					list.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 					cl.show(contentPane, "AdăugareDisciplineStudent");
 
