@@ -1,5 +1,5 @@
 
-public class ExceptieStudent extends Exception
+public class ExceptieStudent extends ExceptieUtilizator
 {
 	public ExceptieStudent(String e)
 	{

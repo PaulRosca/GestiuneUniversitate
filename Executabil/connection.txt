@@ -1,0 +1,3 @@
+url=@localhost:1521:XE
+user=system
+password=root
